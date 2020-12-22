@@ -15,5 +15,5 @@
 ##### 사용 기술: HTML, CSS, JQuery
 
 
-* 1번 사이트 링크:
+* 1번 사이트 링크: <http://vkdlxj3562.dothome.co.kr/Web/index.html>
 * 2번 사이트 링크: <http://vkdlxj3562.dothome.co.kr/responsive/html5/index.html>
