@@ -12,8 +12,8 @@
 <img src="https://user-images.githubusercontent.com/14924689/103146973-b0fbf900-4793-11eb-8751-27efefa63684.png" width=50%></img>
 
 ## 3. 메가박스 사이트 만들기
-##### 사용 기술: HTML, CSS, JQuery      
-
+##### 사용 기술: HTML, CSS, JQuery 및 Swiper 라이브러리 사용
+### (진행중..)
 
 * * *
 
