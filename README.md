@@ -13,10 +13,10 @@
 
 ## 3. 메가박스 사이트 만들기
 ##### 사용 기술: HTML, CSS, JQuery 및 Swiper 라이브러리 사용
-### (진행중..)
-
+<img src="https://user-images.githubusercontent.com/14924689/107053338-0951fc00-6812-11eb-84d4-225fb13d18c5.png" width=50%></img>
 * * *
 
    
 * 1번 사이트 링크: <http://vkdlxj3562.dothome.co.kr/Web/index.html>
 * 2번 사이트 링크: <http://vkdlxj3562.dothome.co.kr/responsive/html5/index.html>
+* 3번 사이트 링크: <http://vkdlxj3562.dothome.co.kr/mega/index21.html>
